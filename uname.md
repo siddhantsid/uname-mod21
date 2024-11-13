@@ -1,0 +1,1 @@
+Since the libc-bin is creating problem with  crouton  .It is impossible to install any linux os .So this dirty script can fake the kernel version below <244  .To let us install the linux .Use this at our own risk .compile this script and modify it with the original uname file .Uname is available /bin
